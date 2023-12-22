@@ -1,0 +1,8 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(“²½ýùÿÿÿÿ8©³Ö‰É1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÃÅ½—øÿÿÿÿ8ª³Ö‰É1
+Z
+java:S1854"=Remove this useless assignment to local variable "claimaJws".(ùÙ¡‘8±³Ö‰É1
+K
+java:S1481".Remove this unused "claimaJws" local variable.(ùÙ¡‘8³³Ö‰É1

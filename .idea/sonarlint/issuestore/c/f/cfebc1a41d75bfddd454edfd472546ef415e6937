@@ -1,0 +1,17 @@
+
+~
+java:S1488C"aImmediately return this expression instead of assigning it to the temporary variable "allOrders".(ïûıı8öÈˆÉ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(•¦³Âùÿÿÿÿ8÷ÈˆÉ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚ÉˆÉ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚ÉˆÉ1
+X
+java:S1612!";Replace this lambda with method reference 'this::mapToDto'.( Ô›Ù8…ÉˆÉ1
+i
+java:S1612&"GReplace this lambda with method reference 'OrderLineItems::getSkuCode'.(ã¿ùÿÿÿÿ8†ÉˆÉ1
+f
+java:S1612/"IReplace this lambda with method reference 'InventoryResponse::getStatus'.(ï²€©8‡ÉˆÉ1
+b
+java:S1128
+"@Remove this unused import 'org.springframework.http.HttpStatus'.(íŸ¤Šúÿÿÿÿ8•íˆÉ1
